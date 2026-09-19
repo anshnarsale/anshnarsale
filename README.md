@@ -3,11 +3,13 @@
 ### `Computer Engineer` · `Builder` · `AI Explorer` · `Linux Enthusiast`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+exist+yet.;AI+%2B+Code+%2B+Systems.;Breaking+things+to+understand+them.;Turning+ideas+into+working+software." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+things+that+shouldn't+exist+yet.;AI+%2B+Code+%2B+Systems.;Breaking+things+to+understand+them.;Turning+ideas+into+working+software." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshnarsale&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+  <a href="https://github.com/anshnarsale">
+    <img src="https://komarev.com/ghpvc/?username=anshnarsale&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+  </a>
   <img src="https://img.shields.io/github/followers/anshnarsale?label=FOLLOWERS&style=flat&color=181717" />
   <img src="https://img.shields.io/github/stars/anshnarsale?label=STARS&style=flat&color=yellow" />
 </p>
@@ -17,139 +19,224 @@
 ## 🧠 `whoami`
 
 ```text
-Name       → Ansh Narsale
-Role       → Computer Engineering Student
-Focus      → AI • Full Stack • Systems • Cybersecurity
-Environment→ Linux + Windows
-Editor     → VS Code
-Currently  → Building weird & useful things
-Mindset    → Learn → Build → Break → Fix → Repeat
+Name        → Ansh Narsale
+Role        → Computer Engineering Student
+Focus       → AI • Full Stack • Systems • Networking • Cybersecurity
+Environment → Linux + Windows
+Editor      → VS Code
+Currently   → Building tools, experiments & weird ideas
+Mindset     → Learn → Build → Break → Fix → Repeat
 ```
 
-I'm a **Computer Engineering student** who likes going beyond tutorials and building things from scratch.
+I like going beyond tutorials.
 
-My interests sit somewhere between:
+I build things to understand how they work — from AI developer tools and
+security utilities to Linux experiments, networking projects and full-stack apps.
 
-**AI × Web Development × Linux × Networking × Cybersecurity × Developer Tools**
+### Current orbit
 
-I like projects that solve actual problems, look good, and make people ask:
+**AI × Systems × Linux × Networking × Cybersecurity × Developer Tools**
 
-> **"Wait... you built this yourself?"**
+> "What if we actually build it?"
 
 ---
 
-## 🚧 CURRENTLY BUILDING
+# 🚧 CURRENTLY BUILDING
 
 ```diff
 + AI-powered developer tools
++ Cybersecurity & networking utilities
++ Linux experiments
 + Full-stack applications
-+ Experimental Linux projects
-+ Cybersecurity & networking tools
-+ AI × Blockchain concepts
-+ Random ideas that somehow become projects
++ Security research projects
++ AI × systems experiments
++ Open-source contributions
 ```
-
----
-
-## 🧪 MY TECH LAB
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-
-### Backend & Database
-
-![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
-
-### Systems & Tools
-
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
 
 ---
 
 # 🧬 PROJECT DNA
 
-## 🤖 MorphLabs AI
+## 🔐 Security & Systems
 
-> **An AI-powered development ecosystem.**
+<table>
+<tr>
+<td width="50%">
 
-A collection of AI-powered developer tools designed around the idea of making software development faster and more accessible.
+### 🛡️ Nexus Sentinel
 
-**CodeMorph** → AI website builder
-**DevMorph** → Online code editor
-**ByteMorph** → AI component generator
+AI-assisted security toolkit for **Windows + Linux**.
 
-`Next.js` `React` `Tailwind` `AI`
+Built around security analysis and system-focused tooling, with AI included as part of the project.
+
+`Python` `AI` `Windows` `Linux` `Security`
+
+<a href="https://github.com/anshnarsale/nexus-sentinel">→ View repository</a>
+
+</td>
+<td width="50%">
+
+### ⚔️ ShellStrike
+
+Bash-based **Kali Linux security toolkit**.
+
+Includes tooling around network discovery, port scanning, Linux security auditing, log analysis and passive web reconnaissance.
+
+`Bash` `Linux` `Kali` `Networking` `Security`
+
+<a href="https://github.com/anshnarsale/ShellStrike">→ View repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🍯 HoneyForge
+
+A security-focused **honeypot / deception project** built as a hands-on security experiment.
+
+Designed to explore how exposed services can be monitored and analyzed.
+
+`Python` `Linux` `Cybersecurity` `Monitoring`
+
+<a href="https://github.com/anshnarsale/honeyforge">→ View repository</a>
+
+</td>
+<td>
+
+### 📱 EvePulse
+
+SMS security simulation project for exploring how suspicious message
+flows can be represented and analyzed in a controlled environment.
+
+`Python` `Security` `Simulation`
+
+<a href="https://github.com/anshnarsale/EvePulse">→ View repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎵 Bhai FM
+## 🤖 AI & Developer Tools
 
-> **A music player built with personality.**
+### 🧪 MorphLabs AI
 
-A dedicated music-player experience built with React and Vite, focused around Salman Khan songs and a cinematic music-player interface.
+**Build Smarter. Ship Faster.**
 
-`React` `Vite` `JavaScript` `CSS`
+An AI-powered development ecosystem built around three ideas:
+
+```text
+CodeMorph  → AI website builder
+ByteMorph  → AI component generator
+DevMorph   → Online code editor
+```
+
+`Next.js` `React` `Tailwind` `Google AI Studio` `AI`
+
+<a href="https://morphlabsai.netlify.app/">→ Explore MorphLabs AI</a>
 
 ---
 
 ## 🐧 ShadeOS
 
-> **Linux, but the way I wanted it.**
+**Linux, rebuilt around how I wanted to use it.**
 
-An experimental Ubuntu-based Linux distribution designed around different operating modes.
+An experimental Ubuntu-based privacy-focused operating system concept with
+different operating modes and system tools.
 
 ```text
 SECURE MODE   → Everyday use + Internet
 STUDENT MODE  → Development + Tools
-RESCUE MODE   → System recovery + Repair
+RESCUE MODE   → Recovery + Repair
 ```
 
-`Ubuntu` `Linux` `KDE` `Shell`
+`Ubuntu` `Linux` `KDE` `Shell` `Privacy`
 
 ---
 
-## ⛓️ AI × BLOCKCHAIN
+## 💸 SplitPe — Open Source Contribution
 
-Exploring decentralized systems for real-world applications such as:
+Contributing to **SplitPe**, a Flutter-based UPI payment-splitting project.
 
-* Academic record verification
-* Digital identity
-* Secure document storage
-* Decentralized social platforms
-* AI-powered blockchain applications
+My contribution adds automated edge-case coverage for the tranche calculation
+engine — testing important boundaries while keeping production logic unchanged.
 
-`Web3` `Blockchain` `Ganache` `Smart Contracts`
+```text
+₹1,999 → 1 tranche
+₹3,998 → 2 × ₹1,999
+₹3,999 → 3 tranches
+₹4,000 → 3 tranches
+```
+
+`Flutter` `Dart` `UPI` `Testing` `Open Source`
+
+<a href="https://github.com/TechnoAman/SplitPe">→ View project</a>
+
+---
+
+# 🎵 OTHER BUILDS
+
+### Bhai FM
+
+A React + Vite music-player experience focused around Salman Khan songs.
+
+`React` `Vite` `JavaScript` `CSS`
+
+<a href="https://github.com/anshnarsale/bhai-fm">→ View repository</a>
+
+---
+
+# 🧪 MY TECH LAB
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+
+### Backend / Data
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### Systems / Security / Tools
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 # 🛰️ TECH RADAR
 
-| Area                       | Status           |
-| -------------------------- | ---------------- |
-| 🌐 Full Stack              | 🟢 Building      |
-| 🤖 Artificial Intelligence | 🟢 Exploring     |
-| 🐧 Linux                   | 🟢 Deep Diving   |
-| 📡 Networking              | 🟢 Learning      |
-| 🔐 Cybersecurity           | 🟡 Exploring     |
-| ⛓️ Blockchain              | 🟡 Experimenting |
-| ☁️ Cloud                   | 🟡 Learning      |
-| 🧠 Machine Learning        | 🟡 Exploring     |
+| Area | Status |
+|---|---|
+| 🌐 Full Stack | 🟢 Building |
+| 🤖 Artificial Intelligence | 🟢 Exploring |
+| 🐧 Linux | 🟢 Deep Diving |
+| 📡 Networking | 🟢 Learning |
+| 🔐 Cybersecurity | 🟢 Building |
+| 🧪 Security Research | 🟢 Experimenting |
+| ⛓️ Blockchain | 🟡 Experimenting |
+| ☁️ Cloud | 🟡 Learning |
+| 🧠 Machine Learning | 🟡 Exploring |
 
 ---
 
@@ -195,17 +282,19 @@ graph LR
 ```yaml
 favorite_environment: Linux
 favorite_stack: React + Node
-currently_learning:
+current_focus:
   - AI
   - Cybersecurity
   - Networking
-  - Cloud
-  - System Development
+  - Linux
+  - Systems
+  - Open Source
 
 things_I_enjoy:
   - Building side projects
   - Breaking Linux installations
   - Experimenting with AI
+  - Exploring security
   - Creating weird ideas
   - Fixing things I broke
 
@@ -231,6 +320,10 @@ development_cycle:
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
+<a href="https://anshnarsale.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/>
+</a>
+
 </p>
 
 ---
@@ -239,9 +332,10 @@ development_cycle:
 
 ### `01001000 01101001 👋`
 
-**Thanks for stopping by.**
+**Build. Break. Learn. Repeat.**
 
 *The best projects usually start with:*
+
 **"What if we..."**
 
 ⭐ Explore my repositories · 🛠️ Build something · 🚀 Ship it
