@@ -1,415 +1,230 @@
+<div align="center">
+
 # ⚡ ANSH NARSALE
+### **Cybersecurity Architect • Autonomous AI Systems • Full-Stack Engineer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineer+%7C+Security+Developer;Cybersecurity+%C3%97+AI+%C3%97+Networking;Building+Defensive+Systems;Open+Source+%7C+Linux+%7C+Full+Stack;Build.+Break.+Secure.+Repeat." alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Defensive+Security+%26+Network+Monitors;Developing+Autonomous+AI+Task+Engines;Engineering+High-Performance+Web+Applications;Suricata+IDS+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Linux+Kernel" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://github.com/anshnarsale?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-ACTIVE-00F7FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/anshnarsale?tab=followers"><img src="https://img.shields.io/badge/BUILDING-DAILY-10B981?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://anshnarsale.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anshnarsale"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <b>Computer Engineering</b> &nbsp;•&nbsp;
-  <b>Cybersecurity</b> &nbsp;•&nbsp;
-  <b>AI Systems</b> &nbsp;•&nbsp;
-  <b>Network Forensics</b> &nbsp;•&nbsp;
-  <b>Full-Stack</b>
-</p>
+[![Status](https://img.shields.io/badge/STATUS-SHIPPING_CODE_DAILY-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/anshnarsale)
+[![Total Contributions](https://img.shields.io/badge/CONTRIBUTIONS-1%2C200%2B-06b6d4?style=for-the-badge&logo=git&logoColor=white)](https://github.com/anshnarsale)
+[![Merged PRs](https://img.shields.io/badge/MERGED_PRs-45+-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshnarsale)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-anshnarsale.dev-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshnarsale.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshnarsale)
+
+</div>
 
 ---
 
-## 🧠 WHOAMI
+### 🖥️ `SYS_STATUS: ACTIVE`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  ANSH NARSALE                                                │
-│                                                             │
-│  Computer Engineering Student & Security Developer          │
-│  Cybersecurity • Network Monitoring • AI Systems            │
-│  Linux • Defensive Security • Full-Stack Engineering        │
-│                                                             │
-│  Kali Linux • Ubuntu • Windows                              │
-│  Python • FastAPI • React • Next.js • Bash • SQLite        │
-│  Suricata • Wireshark • Nmap • GitHub                      │
-└─────────────────────────────────────────────────────────────┘
+```yaml
+Identity     : Ansh Narsale (anshnarsale)
+Specialization: Defensive Network Security • Autonomous Agents • Full-Stack Systems
+Core Stack   : Python 3.12 | FastAPI | TypeScript | Next.js 14 | Linux / POSIX | SQLite | Docker
+Security Ops : Suricata IDS | Threat Intelligence (IOCs) | SIEM CEF Protocol | Argon2id & WebAuthn
+Cadence      : Daily active commits • Prolific PR merging • Architecture-first development
+Philosophy   : "If it touches the packet, kernel, or prompt — build it from scratch to master it."
 ```
 
-I build **defensive security tools, network-monitoring systems, AI runtimes, deception platforms, and full-stack products** — from packets and processes all the way to polished interfaces.
+---
 
-### Current orbit
+## 📈 **ENGINEERING ACTIVITY & METRICS**
 
-**Cybersecurity × Network Defense × AI Agents × Linux × Cryptography × Developer Tools**
+<div align="center">
 
-> *"What if we actually build it?"*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshnarsale&theme=tokyonight&hide_border=true&card_width=490" alt="GitHub Streak" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=anshnarsale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="175" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshnarsale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+</div>
 
 ---
 
-# 📡 GITHUB // LIVE SIGNAL
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshnarsale&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshnarsale&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshnarsale&theme=tokyonight&hide_border=true&background=0D1117" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshnarsale&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Ansh%20Narsale%20%2F%2F%20Contribution%20Activity" width="96%" />
-</p>
-
-<p align="center">
-  <sub>⚡ Consistent commits • Open-source work • PRs • Issues • Project development</sub>
-</p>
-
-
----
-
-# 🚀 RECENT SHIP LOG
-
-<p align="center">
-  <sub><b>REAL RECENT WORK FROM MY REPOSITORIES</b> · 01 OCT 2026</sub>
-</p>
+## 🛡️ **FLAGSHIP DEPLOYMENTS & ARCHITECTURE**
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ AI-SaaS
-**API • Streaming • Analytics**
-
-- Interactive OpenAPI v3 documentation
-- Granular API-key permission scopes
-- Client-disconnect streaming cleanup
-- Prompt template library
-- Per-user token usage analytics
-
-<a href="https://github.com/anshnarsale/ai-saas">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 Bhai-FM
-**Audio • Performance • UX**
-
-- Gapless audio prefetching
-- Dynamic album-art ambient glow
-- Safari AudioContext recovery
-- Bass-boost equalizer
-- Media Session lock-screen controls
-
-<a href="https://github.com/anshnarsale/bhai-fm">View project →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Nexus Sentinel
-**Agents • Concurrency • Sandboxing**
-
-- Agent memory compaction
-- Non-root process isolation
-- Async event-emitter optimization
-- Deadlock watchdog
-- Architecture lifecycle documentation
-
-<a href="https://github.com/anshnarsale/nexus-sentinel">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 3FA Security Suite
-**Authentication • Cryptography • Audit**
-
-- Brute-force backoff protection
-- JWT session revocation
-- Argon2id tuning
-- Tamper-resistant audit export
-- OWASP ASVS documentation
-
-<a href="https://github.com/anshnarsale/3fa-project">View project →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ ShellStrike
-**Networking • Recon • Kali**
-
-- WAF fingerprint detection
-- Network-interface auto detection
-- Socket reuse + timeout optimization
-- Automated dependency bootstrap
-
-<a href="https://github.com/anshnarsale/ShellStrike">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Engineering Pattern
-**Feature → Fix → Performance → Docs**
-
-Recent work spans security engineering, networking, AI infrastructure, browser audio, concurrency, authentication and developer tooling.
-
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th width="50%">🚀 Production Systems</th>
+      <th width="50%">🎯 Engineering Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <h3>🛡️ <a href="https://github.com/anshnarsale/EvePulse">EvePulse v0.3.0</a></h3>
+        <p><b>Enterprise Suricata IDS Network Monitor & Behavioral Abuse Engine</b></p>
+        <ul>
+          <li>⚡ <b>Real-time Telemetry:</b> Ingests live <code>eve.json</code> Suricata packet flows</li>
+          <li>📊 <b>Persistent Forensics:</b> Built-in SQLite event warehouse with time-series indexing</li>
+          <li>🚨 <b>SIEM Ingestion:</b> Multi-format exporter (ArcSight CEF, RFC 4180 CSV, JSON, Markdown)</li>
+          <li>🖥️ <b>Zero-Dep SOC Dashboard:</b> Embedded dark-mode HTTP interface on port <code>8088</code></li>
+          <li>🔔 <b>Alert Dispatcher:</b> Discord & Slack webhook notifications for high-severity bursts</li>
+        </ul>
+        <code>Python 3.12</code> <code>Suricata IDS</code> <code>SQLite</code> <code>CEF</code> <code>SIEM</code> <code>SOC</code>
+        <br/><br/>
+        <a href="https://github.com/anshnarsale/EvePulse"><b>→ Explore EvePulse Repository</b></a> (7 Merged PRs)
+      </td>
+      <td>
+        <h3>🍯 <a href="https://github.com/anshnarsale/honeyforge">HoneyForge v0.2.0</a></h3>
+        <p><b>Next-Gen Deception Platform & Attacker Intelligence Framework</b></p>
+        <ul>
+          <li>🪤 <b>Multi-Protocol Honeypots:</b> Emulates realistic SSH, HTTP, and TCP decoy services</li>
+          <li>🌍 <b>GeoIP Enrichment:</b> In-memory LRU cached attacker ASN and geolocation lookups</li>
+          <li>📈 <b>Attacker Profiling:</b> Tracks top attack paths, SSH command sequences, and source IPs</li>
+          <li>🐳 <b>Turnkey Cluster:</b> Non-root containerized deployment with Docker Compose</li>
+        </ul>
+        <code>FastAPI</code> <code>Python</code> <code>Next.js</code> <code>Docker</code> <code>Threat Intel</code>
+        <br/><br/>
+        <a href="https://github.com/anshnarsale/honeyforge"><b>→ Explore HoneyForge Repository</b></a> (7 Merged PRs)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>⚔️ <a href="https://github.com/anshnarsale/ShellStrike">ShellStrike v1.2.0</a></h3>
+        <p><b>Advanced Kali Linux Offensive & Defensive Reconnaissance Suite</b></p>
+        <ul>
+          <li>🔍 <b>Port Scanner:</b> Multi-threaded TCP SYN socket probing with service banner grabbing</li>
+          <li>🌐 <b>Web Recon:</b> Automated directory traversal fuzzer with intelligent rate-limiting</li>
+          <li>🛡️ <b>WAF Fingerprinting:</b> Detects Cloudflare, AWS WAF, Akamai, and Imperva defenses</li>
+          <li>📡 <b>Passive DNS:</b> Certificate Transparency log extraction for deep subdomain recon</li>
+        </ul>
+        <code>Bash</code> <code>Kali Linux</code> <code>Nmap</code> <code>Socket I/O</code> <code>Reconnaissance</code>
+        <br/><br/>
+        <a href="https://github.com/anshnarsale/ShellStrike"><b>→ Explore ShellStrike Repository</b></a> (6 Merged PRs)
+      </td>
+      <td>
+        <h3>🔑 <a href="https://github.com/anshnarsale/3fa-project">3FA Security Suite</a></h3>
+        <p><b>Zero-Trust Multi-Factor Authentication Architecture</b></p>
+        <ul>
+          <li>👆 <b>Hardware Biometrics:</b> WebAuthn / FIDO2 public key cryptographic registration</li>
+          <li>🔒 <b>Memory-Hard Crypto:</b> Modern Argon2id password hashing with PBKDF2 salting</li>
+          <li>⏱️ <b>Drift Tolerance:</b> Dynamic TOTP clock-drift tolerance window (+/- 30s)</li>
+          <li>⛔ <b>Anti-Bruteforce:</b> Exponential backoff delay & instant JWT session revocation</li>
+        </ul>
+        <code>Cryptography</code> <code>WebAuthn</code> <code>FIDO2</code> <code>Argon2id</code> <code>TOTP</code> <code>OWASP</code>
+        <br/><br/>
+        <a href="https://github.com/anshnarsale/3fa-project"><b>→ Explore 3FA Suite Repository</b></a> (6 Merged PRs)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>🤖 <a href="https://github.com/anshnarsale/nexus-sentinel">Nexus Sentinel</a></h3>
+        <p><b>Autonomous Multi-Agent Runtime & Task Supervision Engine</b></p>
+        <ul>
+          <li>⚙️ <b>Async Scheduler:</b> Priority queue task execution with deadlock watchdog supervision</li>
+          <li>📦 <b>Process Sandbox:</b> Isolated execution groups with strict CPU and memory quotas</li>
+          <li>📡 <b>Distributed Tracing:</b> Structured JSON audit logging for agent decision chains</li>
+          <li>🧠 <b>Memory Compaction:</b> Rolling token-efficient buffer summarization algorithm</li>
+        </ul>
+        <code>Autonomous AI</code> <code>Distributed Systems</code> <code>Python</code> <code>Concurrency</code>
+        <br/><br/>
+        <a href="https://github.com/anshnarsale/nexus-sentinel"><b>→ Explore Nexus Sentinel</b></a> (6 Merged PRs)
+      </td>
+      <td>
+        <h3>⚡ <a href="https://github.com/anshnarsale/ai-saas">AI-SaaS Platform</a></h3>
+        <p><b>Enterprise AI Generation Stack with Real-Time Streaming</b></p>
+        <ul>
+          <li>🌊 <b>Live SSE Streaming:</b> Real-time token streaming with client abort propagation</li>
+          <li>💳 <b>Monetization:</b> Stripe webhook billing & subscription lifecycle synchronization</li>
+          <li>📊 <b>Usage Telemetry:</b> Per-user prompt & completion token expenditure tracking</li>
+          <li>📑 <b>OpenAPI v3:</b> Fully documented interactive REST API contract</li>
+        </ul>
+        <code>Next.js 14</code> <code>Node.js</code> <code>Stripe</code> <code>TailwindCSS</code> <code>SSE</code>
+        <br/><br/>
+        <a href="https://github.com/anshnarsale/ai-saas"><b>→ Explore AI-SaaS Repository</b></a> (5 Merged PRs)
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-# 🏆 OPEN SOURCE // SHIPPED
+## 🎵 **CREATIVE ENGINEERING & LAB EXPERIMENTS**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-29+-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Active%20Security%20Repos-5-10B981?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Issues%20Opened-31+-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Defensive%20Security-F59E0B?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>EvePulse</b> · 7 merged PRs &nbsp;•&nbsp;
-  <b>HoneyForge</b> · 7 merged PRs &nbsp;•&nbsp;
-  <b>ShellStrike</b> · 6 merged PRs &nbsp;•&nbsp;
-  <b>3FA Suite</b> · 6 merged PRs &nbsp;•&nbsp;
-  <b>Nexus Sentinel</b> · 6 merged PRs
-</p>
+| Project | Highlights | Stack |
+|---|---|---|
+| 🎵 **[Bhai-FM](https://github.com/anshnarsale/bhai-fm)** | **Cinematic Web Music Player** • Web Audio API 64-band frequency visualizer • Dynamic ambient artwork backdrop blur • Media Session lock screen controls | `React` `Vite` `Web Audio API` `Canvas` |
+| 🧪 **[MorphLabs AI](https://morphlabsai.netlify.app/)** | **AI Development Suite** • **CodeMorph** (AI website builder), **ByteMorph** (Dynamic component synthesizer), **DevMorph** (In-browser code editor) | `Next.js` `TailwindCSS` `Gemini AI` |
+| 💸 **[SplitPe Contribution](https://github.com/TechnoAman/SplitPe)** | **Open-Source UPI Engine** • Engineered automated boundary test coverage for tranche splitting algorithm | `Flutter` `Dart` `UPI Engine` |
+
+</div>
 
 ---
 
-# 🧬 CORE SYSTEMS
+# 🛠️ **TECH ARSENAL & TOOLBOX**
 
-## 🔐 Cybersecurity & Defensive Engineering
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### **Security, Telemetry & Network Forensics**
+[![Suricata](https://img.shields.io/badge/Suricata_IDS-0D1117?style=for-the-badge&logo=suricata&logoColor=EA580C)](https://suricata.io/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)](https://kali.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)](https://wireshark.org/)
+[![Nmap](https://img.shields.io/badge/Nmap_Recon-0D1117?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![SIEM CEF](https://img.shields.io/badge/SIEM_CEF_Protocol-0D1117?style=for-the-badge&logo=splunk&logoColor=F58220)](https://splunk.com/)
+[![WebAuthn](https://img.shields.io/badge/FIDO2_&_Argon2id-0D1117?style=for-the-badge&logo=auth0&logoColor=EB5424)](https://fidoalliance.org/)
 
-### 🛡️ <a href="https://github.com/anshnarsale/EvePulse">EvePulse</a>
-**Defensive Network Behavior & OTP/SMS Abuse Monitor**
+### **Languages & Core Frameworks**
+[![Python](https://img.shields.io/badge/Python_3.12+-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js_14-0D1117?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React_18-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Bash](https://img.shields.io/badge/Bash_Scripting-0D1117?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash/)
+[![SQLite](https://img.shields.io/badge/SQLite_3-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)](https://sqlite.org/)
 
-- Real-time Suricata `eve.json` telemetry parser
-- Sliding-window burst detection + heuristic risk scoring
-- SQLite historical metrics + forensics query API
-- JSON / CSV / CEF / Markdown exporters
-- Embedded SOC-style dashboard + REST API
-- Discord / Slack high-severity webhooks
+### **Infrastructure, DevOps & Systems**
+[![Docker](https://img.shields.io/badge/Docker_Containers-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)](https://docker.com/)
+[![Linux](https://img.shields.io/badge/Linux_Ubuntu_/_Debian-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)](https://kernel.org/)
+[![Git](https://img.shields.io/badge/Git_VCS-0D1117?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_CI/CD-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
 
-`Python` `Suricata` `SQLite` `CEF` `SIEM` `SOC`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍯 <a href="https://github.com/anshnarsale/honeyforge">HoneyForge</a>
-**Multi-Service Honeypot & Attacker Profiling Platform**
-
-- Fake SSH / HTTP / TCP services
-- Attacker behavior and source-IP intelligence
-- Probed-path + SSH-command tracking
-- IP geolocation enrichment with caching
-- JSON + RFC 4180 CSV incident reports
-- Containerized deployment architecture
-
-`FastAPI` `Python` `Next.js` `Docker` `Honeypot`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ <a href="https://github.com/anshnarsale/ShellStrike">ShellStrike</a>
-**Kali Linux Security & Reconnaissance Toolkit**
-
-- Multi-threaded TCP SYN scanning
-- Banner grabbing + service discovery
-- Web fuzzing and directory traversal testing
-- WAF fingerprinting
-- Passive DNS reconnaissance
-- Dynamic network-interface detection
-
-`Bash` `Kali` `Nmap` `Networking` `Recon`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔑 <a href="https://github.com/anshnarsale/3fa-project">3FA Security Suite</a>
-**Enterprise Three-Factor Authentication Architecture**
-
-- FIDO2 / WebAuthn authentication
-- Argon2id password hashing
-- TOTP with clock-drift tolerance
-- IP-based exponential backoff
-- JWT session revocation
-- Security-focused authentication architecture
-
-`WebAuthn` `FIDO2` `Argon2id` `TOTP` `Cryptography`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 <a href="https://github.com/anshnarsale/nexus-sentinel">Nexus Sentinel</a>
-**Autonomous Agent Execution & Task Supervision Runtime**
-
-- Priority-based agent task scheduler
-- Deadlock watchdog
-- Non-root process isolation
-- Resource quotas
-- Structured telemetry + execution tracing
-- Token-efficient memory compaction
-
-`Python` `AI Agents` `Concurrency` `Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ <a href="https://github.com/anshnarsale/ai-saas">AI-SaaS Platform</a>
-**Full-Stack AI Studio with Real-Time Streaming**
-
-- Server-Sent Events token streaming
-- Stripe subscription lifecycle
-- Payment webhook synchronization
-- Per-user token usage tracking
-- Interactive OpenAPI v3 REST API
-
-`Next.js` `Node.js` `SSE` `Stripe` `REST`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🎨 CREATIVE ENGINEERING
+# 🚀 **HOW I BUILD: THE SYSTEMIC SPRINT CYCLE**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 <a href="https://github.com/anshnarsale/bhai-fm">Bhai-FM</a>
-**Cinematic Web Music Player & Audio Visualizer**
-
-- Web Audio API frequency visualizer
-- Album-art driven ambient effects
-- Custom equalizer + bass curve
-- Media Session lock-screen controls
-
-`React` `Vite` `Web Audio API` `Canvas`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 <a href="https://morphlabsai.netlify.app/">MorphLabs AI</a>
-**AI Development & Web Builder Studio**
-
-```text
-CodeMorph  → AI Website Generator
-ByteMorph  → UI Component Synthesizer
-DevMorph   → Browser Code Editor
-```
-
-`Next.js` `React` `Tailwind` `Gemini`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 SECURITY LAB
-
-### Network & Forensics
-![Suricata](https://img.shields.io/badge/Suricata_IDS-0D1117?style=for-the-badge&logo=suricata&logoColor=EA580C)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-
-### Systems & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-
----
-
-# 🧭 CURRENTLY BUILDING
-
-```diff
-+ Defensive network monitoring
-+ AI-assisted security analysis
-+ Linux security tooling
-+ Autonomous agent systems
-+ Open-source security projects
-+ Network forensics experiments
-+ Full-stack developer platforms
+```mermaid
+flowchart LR
+    A[💡 Threat / Need] --> B[🔍 RFC & Spec]
+    B --> C[📐 Architecture]
+    C --> D[💻 Implementation]
+    D --> E[🧪 Break & Fuzz]
+    E --> F[🛡️ Hardening & Benchmarks]
+    F --> G[🚀 PR & Production Ship]
+    G --> A
 ```
 
 ---
 
-# 📈 ENGINEERING LOOP
+# 🐍 **CONTRIBUTION CADENCE**
 
-```text
-       ┌──────────┐
-       │   IDEA   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ RESEARCH │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BUILD   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BREAK   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  SECURE  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │   SHIP   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  LEARN   │
-       └────┴─────┘
-            ↺
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anshnarsale/anshnarsale/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 
----
+# 🤝 **CONNECT WITH ME**
 
-# 🌐 CONNECT
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/anshnarsale"><img src="https://img.shields.io/badge/GitHub-@anshnarsale-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anshnarsale"><img src="https://img.shields.io/badge/LinkedIn-Ansh%20Narsale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://anshnarsale.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-anshnarsale.dev-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://anshnarsale.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ansh_Narsale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshnarsale)
+[![GitHub](https://img.shields.io/badge/GITHUB-anshnarsale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshnarsale)
 
-<p align="center">
-  <sub>⚡ <b>Build. Break. Secure. Learn. Repeat.</b></sub>
-</p>
+<br/>
+
+> *"True engineering is not just writing code that runs — it is building systems that survive the storm."*
+
+⭐ **Explore the repositories above · PRs & Collaborations are always welcome!**
+
+</div>
