@@ -51,11 +51,11 @@ Philosophy    : "If it touches the packet, kernel, or prompt — build it from s
 
 ---
 
-## 📈 **ALL-TIME CONTRIBUTION ACTIVITY GRAPH**
+## 📈 **CONTRIBUTION ACTIVITY GRAPH**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshnarsale&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=F59E0B&area=true&hide_border=true&custom_title=Ansh's+All-Time+Contribution+Activity" alt="Contribution Activity Graph" width="100%" />
+<img src="https://ghchart.rshah.org/00F7FF/anshnarsale" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -239,10 +239,20 @@ flowchart LR
 
 ---
 
-## 🏆 **GITHUB ACHIEVEMENTS & TROPHIES**
+## 🏆 **GITHUB ACHIEVEMENTS & MILESTONES**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshnarsale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+| 🏅 Milestone | 📊 Count |
+|:---:|:---:|
+| **Total Repositories** | ![repos](https://img.shields.io/badge/Repositories-16-06b6d4?style=for-the-badge&logo=github) |
+| **2026 Contributions** | ![contribs](https://img.shields.io/badge/Contributions-914%2B-10b981?style=for-the-badge&logo=git) |
+| **Merged Pull Requests** | ![prs](https://img.shields.io/badge/Merged%20PRs-45%2B-8b5cf6?style=for-the-badge&logo=git-pull-request) |
+| **Open Source Issues** | ![issues](https://img.shields.io/badge/Issues%20Filed-35%2B-f59e0b?style=for-the-badge&logo=github) |
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshnarsale&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshnarsale&theme=tokyonight" height="150" />
+
 </div>
 
 ---
