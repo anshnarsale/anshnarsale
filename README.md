@@ -66,6 +66,103 @@ I build **defensive security tools, network-monitoring systems, AI runtimes, dec
   <sub>⚡ Consistent commits • Open-source work • PRs • Issues • Project development</sub>
 </p>
 
+
+---
+
+# 🚀 RECENT SHIP LOG
+
+<p align="center">
+  <sub><b>REAL RECENT WORK FROM MY REPOSITORIES</b> · 01 OCT 2026</sub>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ AI-SaaS
+**API • Streaming • Analytics**
+
+- Interactive OpenAPI v3 documentation
+- Granular API-key permission scopes
+- Client-disconnect streaming cleanup
+- Prompt template library
+- Per-user token usage analytics
+
+<a href="https://github.com/anshnarsale/ai-saas">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Bhai-FM
+**Audio • Performance • UX**
+
+- Gapless audio prefetching
+- Dynamic album-art ambient glow
+- Safari AudioContext recovery
+- Bass-boost equalizer
+- Media Session lock-screen controls
+
+<a href="https://github.com/anshnarsale/bhai-fm">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Nexus Sentinel
+**Agents • Concurrency • Sandboxing**
+
+- Agent memory compaction
+- Non-root process isolation
+- Async event-emitter optimization
+- Deadlock watchdog
+- Architecture lifecycle documentation
+
+<a href="https://github.com/anshnarsale/nexus-sentinel">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 3FA Security Suite
+**Authentication • Cryptography • Audit**
+
+- Brute-force backoff protection
+- JWT session revocation
+- Argon2id tuning
+- Tamper-resistant audit export
+- OWASP ASVS documentation
+
+<a href="https://github.com/anshnarsale/3fa-project">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ ShellStrike
+**Networking • Recon • Kali**
+
+- WAF fingerprint detection
+- Network-interface auto detection
+- Socket reuse + timeout optimization
+- Automated dependency bootstrap
+
+<a href="https://github.com/anshnarsale/ShellStrike">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Engineering Pattern
+**Feature → Fix → Performance → Docs**
+
+Recent work spans security engineering, networking, AI infrastructure, browser audio, concurrency, authentication and developer tooling.
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 🏆 OPEN SOURCE // SHIPPED
@@ -302,12 +399,6 @@ DevMorph   → Browser Code Editor
 ```
 
 ---
-
-# 🐍 CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshnarsale/anshnarsale/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="95%" />
-</p>
 
 ---
 
