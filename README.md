@@ -16,6 +16,25 @@
 
 ---
 
+# ⚡ CONTRIBUTION SIGNAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshnarsale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600&v=3" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshnarsale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600&v=3" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anshnarsale&theme=tokyonight&hide_border=true&background=0D1117&v=3" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshnarsale&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Ansh%20Narsale%20%2F%2F%20Contribution%20Activity" width="95%"/>
+</p>
+
+> **Live GitHub activity** · commits · pull requests · issues · repository work
+
+---
+
 ## 🧠 `whoami`
 
 ```text
@@ -253,19 +272,6 @@ graph LR
     G --> H[📚 Learn]
     H --> A
 ```
-
----
-
-# 📊 GITHUB // SYSTEM STATUS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshnarsale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600&v=2" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshnarsale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600&v=2" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshnarsale&theme=tokyonight&hide_border=true&background=0D1117&v=2" />
-</p>
 
 ---
 
