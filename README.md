@@ -33,6 +33,20 @@
 
 > **Live GitHub activity** · commits · pull requests · issues · repository work
 
+### 🛰️ OPEN SOURCE ACTIVITY
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Opened-5-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-5-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Issues%20Opened-31-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/Repositories-3-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</p>
+
+<p align="center">
+  <b>EvePulse</b> · 3 merged PRs &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>HoneyForge</b> · 2 merged PRs
+</p>
+
 ---
 
 ## 🧠 `whoami`
