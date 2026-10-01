@@ -8,9 +8,10 @@
 <br/>
 
 [![Status](https://img.shields.io/badge/STATUS-SHIPPING_CODE_DAILY-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/anshnarsale)
-[![Total Contributions](https://img.shields.io/badge/CONTRIBUTIONS-1%2C200%2B-06b6d4?style=for-the-badge&logo=git&logoColor=white)](https://github.com/anshnarsale)
-[![Merged PRs](https://img.shields.io/badge/MERGED_PRs-45+-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshnarsale)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-anshnarsale.dev-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshnarsale.netlify.app/)
+[![Dynamic Stars](https://img.shields.io/github/stars/anshnarsale?style=for-the-badge&logo=github&color=f59e0b&label=STARS)](https://github.com/anshnarsale?tab=repositories)
+[![Dynamic Views](https://komarev.com/ghpvc/?username=anshnarsale&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge)](https://github.com/anshnarsale)
+[![Dynamic Followers](https://img.shields.io/github/followers/anshnarsale?style=for-the-badge&logo=github&color=8b5cf6&label=FOLLOWERS)](https://github.com/anshnarsale?tab=followers)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-anshnarsale.dev-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://anshnarsale.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshnarsale)
 
 </div>
@@ -30,7 +31,7 @@ Philosophy   : "If it touches the packet, kernel, or prompt — build it from sc
 
 ---
 
-## 📈 **ENGINEERING ACTIVITY & METRICS**
+## 📈 **LIVE DYNAMIC ACTIVITY & METRICS**
 
 <div align="center">
 
