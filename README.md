@@ -37,8 +37,8 @@ Philosophy    : "If it touches the packet, kernel, or prompt — build it from s
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshnarsale&theme=tokyonight&hide_border=true&card_width=500&include_all_commits=true" alt="GitHub Streak" height="180" />
-<img src="https://github-readme-stats.vercel.app/api?username=anshnarsale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshnarsale&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=anshnarsale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180" />
 
 </div>
 
@@ -55,7 +55,7 @@ Philosophy    : "If it touches the packet, kernel, or prompt — build it from s
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshnarsale&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=F59E0B&area=true&hide_border=true&custom_title=Ansh%27s%20All-Time%20Contribution%20Activity)](https://github.com/anshnarsale)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshnarsale&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=8B5CF6&point=F59E0B&area=true&hide_border=true&custom_title=Ansh's+All-Time+Contribution+Activity" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
