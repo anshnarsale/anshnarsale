@@ -6,7 +6,7 @@
 </p>
 
 ## 📌 About Me
- 💡 <em>🎓 Computer Engineering Student | Final Year (2027)
+ <em>🎓 Computer Engineering Student | Final Year (2027)
 
 🔐 Interested in Cybersecurity, Network Engineering & Digital Forensics.
 
